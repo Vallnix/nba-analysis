@@ -1,5 +1,8 @@
 # NBA Player & Team Analysis
 
+## Live Dashboard
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/grayson.johnson4585/viz/NBAAnalyticsDashboard_17799266145720/NBAAnalyticsDashboard)
+
 ## Overview
 SQL-driven analysis of 18,000+ NBA player seasons from 1980-2018
 using SQLite and Python.
